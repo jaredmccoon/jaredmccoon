@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredmccoon)](https://github.com/jaredmccoon/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaredmccoon&" alt="jaredmccoon" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaredmccoon" alt="jaredmccoon" /></a> </p>
