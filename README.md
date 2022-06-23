@@ -2,7 +2,7 @@
 <p align="center"> I'm a Full Stack Developer<p>
 <h4 align="center">💬 Connect with me:</h4>
 <p align="center">
-<a href="https://linkedin.com/in/sdhightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdhightower" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/jared-mccoon-642160231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdhightower" height="25" width="35" /></a>
 </p>
 
 # 💻 Tech Stack:
