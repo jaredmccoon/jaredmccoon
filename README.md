@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredmccoon&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaredmccoon&" alt="jaredmccoon" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaredmccoon" alt="jaredmccoon" /></a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredmccoon&layout=compact&theme=radical)](https://github.com/jaredmccoon/github-readme-stats)
